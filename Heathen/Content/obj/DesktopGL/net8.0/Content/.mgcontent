@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/background/teastain64.png</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/00-TheFool.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/01-TheMagician.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/02-TheHighPriestess.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/03-TheEmpress.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/04-TheEmperor.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/05-TheHierophant.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/06-TheLovers.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/07-TheChariot.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/08-Strength.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/09-TheHermit.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/10-WheelOfFortune.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/11-Justice.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/12-TheHangedMan.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/13-Death.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/14-Temperance.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/15-TheDevil.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/16-TheTower.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/17-TheStar.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/18-TheMoon.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/19-TheSun.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/20-Judgement.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/21-TheWorld.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups01.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups02.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups03.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups04.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups05.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups06.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups07.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups08.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups09.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups10.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups11.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups12.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups13.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Cups14.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles01.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles02.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles03.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles04.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles05.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles06.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles07.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles08.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles09.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles10.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles11.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles12.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles13.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Pentacles14.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords01.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords02.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords03.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords04.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords05.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords06.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords07.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords08.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords09.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords10.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords11.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords12.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords13.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Swords14.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands01.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands02.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands03.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands04.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands05.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands06.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands07.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands08.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands09.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands10.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands11.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands12.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands13.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/cards/Wands14.jpg</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/suits/cup.png</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/suits/pentacle.png</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/suits/sword.png</File>
+    <File>/home/mike/RiderProjects/Heathen/Heathen/Content/images/suits/wand.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
