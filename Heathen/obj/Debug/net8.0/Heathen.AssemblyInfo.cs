@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Heathen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+663e60740506cb947dd6387f18350f5e20398516")]
 [assembly: System.Reflection.AssemblyProductAttribute("Heathen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Heathen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
